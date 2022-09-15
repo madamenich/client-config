@@ -1,2 +1,3 @@
 config_message : "Hello from developer profile of user service"
-
+token:
+  secret: {cipher}cba1a99377e88bcda1610df06fde134f4ad8256f9603327545c7b6b7b69402e3
