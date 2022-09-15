@@ -1,1 +1,4 @@
 config_message : "Hello From user-service in test profile"
+spring:
+  datasource:
+    password: {cipher}e23268f559fd9aded9bdb7f04fba736944be6f3102e87ee36a7e58b4c320239f
