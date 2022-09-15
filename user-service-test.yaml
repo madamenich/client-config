@@ -1,6 +1,6 @@
 config_message: "Hello From user-service in test profile"
 token:
-  secret: '{cipher}cba1a99377e88bcda1610df06fde134f4ad8256f9603327545c7b6b7b69402e3'
+  secret: '{cipher}AQB1qX6aNkPjOXznxyeHKntOO+OkmZ9reuAqqBZrQnuUd8hDkxipV8HMF9WO424SK8i8q3J5P3/YcNt3cn/NR+FkpoSH9IBleHWyE9ndbV1tpkYHr3bQe+8OGCV5wW8aJwXvrOiyEcL7mXuGTJqKCvvPxpW92fsXsudTZxeitVYdSC1gCW0Uh7DY9jFFMEte5SxzZGhxF+WItzc6VASj+/l0jhDmJeNnHizKCwbLEr3NLFmFgiE6uyvBav5l43KnxhBTGUHdbakftfqQ0mNYACZWMnU+ULCvK2U9IwG21yv9p9B6xZULbTGRFyYDxL6n4nIgFpkiClvnJkMx1gIzeijWh8KgqEi+zsHXzVD+XXVM226IVAS9ohjTMMGM26MVSns='
 spring:
   datasource:
     password: '{cipher}9ad71a429986af73ed69ed5849ac076d6056e660929475045b3714875ffe2cd3'
